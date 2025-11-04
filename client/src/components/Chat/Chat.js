@@ -9,7 +9,7 @@ import Input from '../Input/Input';
 
 import './Chat.css';
 
-const ENDPOINT = 'https://realtime-chat-f4ln.onrender.com/';
+const ENDPOINT = 'https://realtime-chat-f4ln.onrender.com';
 
 let socket;
 
